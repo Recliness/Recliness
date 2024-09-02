@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ReclinesMC
-- 📫 Discord: Reclines#6666
+- 👋 Hi, I’m @Recliness
+- 📫 Discord: reclines
 
 <!---
 ReclinesMC/ReclinesMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
